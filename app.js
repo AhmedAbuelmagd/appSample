@@ -7,3 +7,7 @@ for (var i =
 	[i]
 }
 gg
+
+for (var i = 0; i < Things.length; i++) {
+	Things[i]
+}
